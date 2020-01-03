@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "PharoSettings",
+	"category" : "PharoSettings",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "Baseline",
+	"type" : "normal"
+}
