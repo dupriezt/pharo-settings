@@ -11,6 +11,7 @@ They can be in multiple form:
 - Class side methods called in the initialize to customize some values
 - Class side methods called in the initialize to install some things
 - Class side methods called in the initialize to add metalinks changing the Pharo behavior
+
 *Description copied from [Cyril's PharoSettings repo](https://github.com/jecisc/pharo-scripts), the example for this repository*
 
 ## Setup
